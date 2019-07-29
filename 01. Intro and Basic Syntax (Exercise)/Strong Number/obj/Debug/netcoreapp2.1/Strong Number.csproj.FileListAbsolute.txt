@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\bin\Debug\netcoreapp2.1\Strong Number.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\bin\Debug\netcoreapp2.1\Strong Number.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\bin\Debug\netcoreapp2.1\Strong Number.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\bin\Debug\netcoreapp2.1\Strong Number.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\bin\Debug\netcoreapp2.1\Strong Number.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\obj\Debug\netcoreapp2.1\Strong Number.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\obj\Debug\netcoreapp2.1\Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\obj\Debug\netcoreapp2.1\Strong Number.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\obj\Debug\netcoreapp2.1\Strong Number.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\obj\Debug\netcoreapp2.1\Strong Number.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Strong Number\obj\Debug\netcoreapp2.1\Strong Number.pdb

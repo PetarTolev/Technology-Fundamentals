@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.pdb

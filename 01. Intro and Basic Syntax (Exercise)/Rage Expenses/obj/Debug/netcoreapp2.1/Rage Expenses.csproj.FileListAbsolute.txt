@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.pdb

@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\bin\Debug\netcoreapp2.1\Login.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\bin\Debug\netcoreapp2.1\Login.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\bin\Debug\netcoreapp2.1\Login.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\obj\Debug\netcoreapp2.1\Login.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\obj\Debug\netcoreapp2.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\obj\Debug\netcoreapp2.1\Login.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\(Exercise) Intro and Basic Syntax\Login\obj\Debug\netcoreapp2.1\Login.pdb
