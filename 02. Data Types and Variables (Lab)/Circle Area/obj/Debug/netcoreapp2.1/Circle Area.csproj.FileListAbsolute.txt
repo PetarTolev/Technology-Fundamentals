@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\bin\Debug\netcoreapp2.1\Circle Area.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\bin\Debug\netcoreapp2.1\Circle Area.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\bin\Debug\netcoreapp2.1\Circle Area.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\bin\Debug\netcoreapp2.1\Circle Area.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\bin\Debug\netcoreapp2.1\Circle Area.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\obj\Debug\netcoreapp2.1\Circle Area.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\obj\Debug\netcoreapp2.1\Circle Area.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\obj\Debug\netcoreapp2.1\Circle Area.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\obj\Debug\netcoreapp2.1\Circle Area.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Circle Area\obj\Debug\netcoreapp2.1\Circle Area.pdb

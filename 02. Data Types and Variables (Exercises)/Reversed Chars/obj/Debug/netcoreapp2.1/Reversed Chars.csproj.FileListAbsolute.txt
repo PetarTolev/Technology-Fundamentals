@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\bin\Debug\netcoreapp2.1\Reversed Chars.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\bin\Debug\netcoreapp2.1\Reversed Chars.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\bin\Debug\netcoreapp2.1\Reversed Chars.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\bin\Debug\netcoreapp2.1\Reversed Chars.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\bin\Debug\netcoreapp2.1\Reversed Chars.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\obj\Debug\netcoreapp2.1\Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\obj\Debug\netcoreapp2.1\Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\obj\Debug\netcoreapp2.1\Reversed Chars.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\obj\Debug\netcoreapp2.1\Reversed Chars.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Reversed Chars\obj\Debug\netcoreapp2.1\Reversed Chars.pdb

@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.pdb

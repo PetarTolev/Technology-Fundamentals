@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\bin\Debug\netcoreapp2.1\Town Info.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\bin\Debug\netcoreapp2.1\Town Info.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\bin\Debug\netcoreapp2.1\Town Info.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\bin\Debug\netcoreapp2.1\Town Info.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\bin\Debug\netcoreapp2.1\Town Info.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\obj\Debug\netcoreapp2.1\Town Info.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\obj\Debug\netcoreapp2.1\Town Info.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\obj\Debug\netcoreapp2.1\Town Info.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\obj\Debug\netcoreapp2.1\Town Info.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Town Info\obj\Debug\netcoreapp2.1\Town Info.pdb

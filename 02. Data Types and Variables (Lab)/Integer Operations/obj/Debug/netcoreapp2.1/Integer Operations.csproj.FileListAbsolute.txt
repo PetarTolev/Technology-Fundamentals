@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.pdb

@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp2.1\Lower or Upper.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp2.1\Lower or Upper.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp2.1\Lower or Upper.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp2.1\Lower or Upper.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp2.1\Lower or Upper.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp2.1\Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp2.1\Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp2.1\Lower or Upper.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp2.1\Lower or Upper.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp2.1\Lower or Upper.pdb

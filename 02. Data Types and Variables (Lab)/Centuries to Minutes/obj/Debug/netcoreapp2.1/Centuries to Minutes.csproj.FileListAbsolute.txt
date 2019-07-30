@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.pdb

@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\bin\Debug\netcoreapp2.1\Concat Names.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\bin\Debug\netcoreapp2.1\Concat Names.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\bin\Debug\netcoreapp2.1\Concat Names.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\bin\Debug\netcoreapp2.1\Concat Names.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\bin\Debug\netcoreapp2.1\Concat Names.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\obj\Debug\netcoreapp2.1\Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\obj\Debug\netcoreapp2.1\Concat Names.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\obj\Debug\netcoreapp2.1\Concat Names.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\obj\Debug\netcoreapp2.1\Concat Names.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Data Types and Variables\Concat Names\obj\Debug\netcoreapp2.1\Concat Names.pdb

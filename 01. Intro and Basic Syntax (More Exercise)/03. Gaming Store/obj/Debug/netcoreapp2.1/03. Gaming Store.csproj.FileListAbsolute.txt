@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Syntax Conditional and Loops (More Exercise)\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.pdb
