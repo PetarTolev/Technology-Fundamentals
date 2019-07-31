@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\Print Numbers in Reverse Order.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\Print Numbers in Reverse Order.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\bin\Debug\netcoreapp2.1\Print Numbers in Reverse Order.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\Print Numbers in Reverse Order.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Print Numbers in Reverse Order\obj\Debug\netcoreapp2.1\Print Numbers in Reverse Order.pdb

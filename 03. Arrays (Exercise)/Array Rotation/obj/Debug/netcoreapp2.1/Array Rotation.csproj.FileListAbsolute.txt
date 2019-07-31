@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\bin\Debug\netcoreapp2.1\Array Rotation.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\bin\Debug\netcoreapp2.1\Array Rotation.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\bin\Debug\netcoreapp2.1\Array Rotation.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\bin\Debug\netcoreapp2.1\Array Rotation.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\bin\Debug\netcoreapp2.1\Array Rotation.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\obj\Debug\netcoreapp2.1\Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\obj\Debug\netcoreapp2.1\Array Rotation.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\obj\Debug\netcoreapp2.1\Array Rotation.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\obj\Debug\netcoreapp2.1\Array Rotation.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\obj\Debug\netcoreapp2.1\Array Rotation.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Array Rotation\obj\Debug\netcoreapp2.1\Array Rotation.csprojAssemblyReference.cache

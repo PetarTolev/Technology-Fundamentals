@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\bin\Debug\netcoreapp2.1\Sum Even Numbers.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\bin\Debug\netcoreapp2.1\Sum Even Numbers.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\bin\Debug\netcoreapp2.1\Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\bin\Debug\netcoreapp2.1\Sum Even Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\bin\Debug\netcoreapp2.1\Sum Even Numbers.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\obj\Debug\netcoreapp2.1\Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\obj\Debug\netcoreapp2.1\Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\obj\Debug\netcoreapp2.1\Sum Even Numbers.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\obj\Debug\netcoreapp2.1\Sum Even Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Sum Even Numbers\obj\Debug\netcoreapp2.1\Sum Even Numbers.pdb

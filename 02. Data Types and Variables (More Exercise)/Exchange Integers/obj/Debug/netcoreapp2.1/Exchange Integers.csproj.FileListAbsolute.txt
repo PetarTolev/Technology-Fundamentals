@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\bin\Debug\netcoreapp2.1\Exchange Integers.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\bin\Debug\netcoreapp2.1\Exchange Integers.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\bin\Debug\netcoreapp2.1\Exchange Integers.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\bin\Debug\netcoreapp2.1\Exchange Integers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\bin\Debug\netcoreapp2.1\Exchange Integers.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\obj\Debug\netcoreapp2.1\Exchange Integers.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\obj\Debug\netcoreapp2.1\Exchange Integers.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\obj\Debug\netcoreapp2.1\Exchange Integers.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\obj\Debug\netcoreapp2.1\Exchange Integers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(More Exercise)Data Types and Variables\Exchange Integers\obj\Debug\netcoreapp2.1\Exchange Integers.pdb

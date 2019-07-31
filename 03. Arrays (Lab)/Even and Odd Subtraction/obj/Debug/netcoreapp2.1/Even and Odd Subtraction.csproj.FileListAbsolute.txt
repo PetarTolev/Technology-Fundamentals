@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp2.1\Even and Odd Subtraction.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp2.1\Even and Odd Subtraction.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp2.1\Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp2.1\Even and Odd Subtraction.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp2.1\Even and Odd Subtraction.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp2.1\Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp2.1\Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp2.1\Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp2.1\Even and Odd Subtraction.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp2.1\Even and Odd Subtraction.pdb

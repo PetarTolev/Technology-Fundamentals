@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp2.1\Zig-Zag Arrays.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp2.1\Zig-Zag Arrays.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp2.1\Zig-Zag Arrays.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp2.1\Zig-Zag Arrays.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\bin\Debug\netcoreapp2.1\Zig-Zag Arrays.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp2.1\Zig-Zag Arrays.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp2.1\Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp2.1\Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp2.1\Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp2.1\Zig-Zag Arrays.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise) Arrays\Zig-Zag Arrays\obj\Debug\netcoreapp2.1\Zig-Zag Arrays.pdb

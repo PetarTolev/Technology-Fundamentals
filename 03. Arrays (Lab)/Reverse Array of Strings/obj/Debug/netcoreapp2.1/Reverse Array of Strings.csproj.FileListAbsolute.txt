@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\bin\Debug\netcoreapp2.1\Reverse Array of Strings.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\bin\Debug\netcoreapp2.1\Reverse Array of Strings.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\bin\Debug\netcoreapp2.1\Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\bin\Debug\netcoreapp2.1\Reverse Array of Strings.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\bin\Debug\netcoreapp2.1\Reverse Array of Strings.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\obj\Debug\netcoreapp2.1\Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\obj\Debug\netcoreapp2.1\Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\obj\Debug\netcoreapp2.1\Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\obj\Debug\netcoreapp2.1\Reverse Array of Strings.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab) Arrays\Reverse Array of Strings\obj\Debug\netcoreapp2.1\Reverse Array of Strings.pdb
