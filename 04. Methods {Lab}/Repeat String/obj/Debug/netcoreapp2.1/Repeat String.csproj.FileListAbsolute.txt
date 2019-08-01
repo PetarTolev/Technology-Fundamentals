@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.pdb

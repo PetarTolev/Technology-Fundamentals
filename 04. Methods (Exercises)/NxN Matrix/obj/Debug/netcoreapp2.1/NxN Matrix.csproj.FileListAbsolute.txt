@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises)Methods\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.pdb

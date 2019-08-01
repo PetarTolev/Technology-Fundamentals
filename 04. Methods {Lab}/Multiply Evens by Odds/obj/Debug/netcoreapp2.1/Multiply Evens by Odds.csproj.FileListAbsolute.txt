@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.pdb

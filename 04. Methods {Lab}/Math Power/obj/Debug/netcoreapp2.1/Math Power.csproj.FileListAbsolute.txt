@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\bin\Debug\netcoreapp2.1\Math Power.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\bin\Debug\netcoreapp2.1\Math Power.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\bin\Debug\netcoreapp2.1\Math Power.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\bin\Debug\netcoreapp2.1\Math Power.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\bin\Debug\netcoreapp2.1\Math Power.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\obj\Debug\netcoreapp2.1\Math Power.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\obj\Debug\netcoreapp2.1\Math Power.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\obj\Debug\netcoreapp2.1\Math Power.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\obj\Debug\netcoreapp2.1\Math Power.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Math Power\obj\Debug\netcoreapp2.1\Math Power.pdb

@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\bin\Debug\netcoreapp2.1\Orders.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\bin\Debug\netcoreapp2.1\Orders.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\bin\Debug\netcoreapp2.1\Orders.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\obj\Debug\netcoreapp2.1\Orders.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\obj\Debug\netcoreapp2.1\Orders.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\{Lab} Methods\Orders\obj\Debug\netcoreapp2.1\Orders.pdb
