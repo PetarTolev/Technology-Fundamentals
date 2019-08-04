@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.pdb

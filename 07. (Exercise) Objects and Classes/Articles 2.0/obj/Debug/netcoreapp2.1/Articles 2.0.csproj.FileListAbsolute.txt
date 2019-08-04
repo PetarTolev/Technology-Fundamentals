@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\bin\Debug\netcoreapp2.1\Articles 2.0.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\bin\Debug\netcoreapp2.1\Articles 2.0.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\bin\Debug\netcoreapp2.1\Articles 2.0.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\bin\Debug\netcoreapp2.1\Articles 2.0.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\bin\Debug\netcoreapp2.1\Articles 2.0.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\obj\Debug\netcoreapp2.1\Articles 2.0.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\obj\Debug\netcoreapp2.1\Articles 2.0.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\obj\Debug\netcoreapp2.1\Articles 2.0.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\obj\Debug\netcoreapp2.1\Articles 2.0.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\obj\Debug\netcoreapp2.1\Articles 2.0.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercise)Objects and Classes\Articles 2.0\obj\Debug\netcoreapp2.1\Articles 2.0.pdb
