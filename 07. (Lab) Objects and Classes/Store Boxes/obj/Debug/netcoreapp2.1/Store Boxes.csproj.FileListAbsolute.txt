@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\bin\Debug\netcoreapp2.1\Store Boxes.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\bin\Debug\netcoreapp2.1\Store Boxes.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\bin\Debug\netcoreapp2.1\Store Boxes.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\bin\Debug\netcoreapp2.1\Store Boxes.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\bin\Debug\netcoreapp2.1\Store Boxes.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\obj\Debug\netcoreapp2.1\Store Boxes.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\obj\Debug\netcoreapp2.1\Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\obj\Debug\netcoreapp2.1\Store Boxes.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\obj\Debug\netcoreapp2.1\Store Boxes.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\obj\Debug\netcoreapp2.1\Store Boxes.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Objects and Classes\Store Boxes\obj\Debug\netcoreapp2.1\Store Boxes.pdb
