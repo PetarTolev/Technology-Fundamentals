@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\bin\Debug\netcoreapp2.1\Substring.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\bin\Debug\netcoreapp2.1\Substring.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\bin\Debug\netcoreapp2.1\Substring.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\obj\Debug\netcoreapp2.1\Substring.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\obj\Debug\netcoreapp2.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\obj\Debug\netcoreapp2.1\Substring.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Substring\obj\Debug\netcoreapp2.1\Substring.pdb

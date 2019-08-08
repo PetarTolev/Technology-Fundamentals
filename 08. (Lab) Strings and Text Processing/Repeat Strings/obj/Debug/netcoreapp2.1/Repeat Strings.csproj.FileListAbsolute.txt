@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\bin\Debug\netcoreapp2.1\Repeat Strings.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\bin\Debug\netcoreapp2.1\Repeat Strings.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\bin\Debug\netcoreapp2.1\Repeat Strings.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\bin\Debug\netcoreapp2.1\Repeat Strings.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\bin\Debug\netcoreapp2.1\Repeat Strings.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\obj\Debug\netcoreapp2.1\Repeat Strings.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\obj\Debug\netcoreapp2.1\Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\obj\Debug\netcoreapp2.1\Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\obj\Debug\netcoreapp2.1\Repeat Strings.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\obj\Debug\netcoreapp2.1\Repeat Strings.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Lab)Strings and Text Processing\Repeat Strings\obj\Debug\netcoreapp2.1\Repeat Strings.pdb
