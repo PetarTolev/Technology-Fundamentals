@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\bin\Debug\netcoreapp2.1\Quests Journal.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\bin\Debug\netcoreapp2.1\Quests Journal.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\bin\Debug\netcoreapp2.1\Quests Journal.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\bin\Debug\netcoreapp2.1\Quests Journal.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\bin\Debug\netcoreapp2.1\Quests Journal.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\obj\Debug\netcoreapp2.1\Quests Journal.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\obj\Debug\netcoreapp2.1\Quests Journal.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\obj\Debug\netcoreapp2.1\Quests Journal.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\obj\Debug\netcoreapp2.1\Quests Journal.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Technology Fundamentals Mid Exam  4 November\Quests Journal\obj\Debug\netcoreapp2.1\Quests Journal.pdb
