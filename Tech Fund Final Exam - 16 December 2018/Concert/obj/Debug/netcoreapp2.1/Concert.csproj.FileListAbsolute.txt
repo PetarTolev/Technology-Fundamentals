@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\bin\Debug\netcoreapp2.1\Concert.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\bin\Debug\netcoreapp2.1\Concert.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\bin\Debug\netcoreapp2.1\Concert.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\bin\Debug\netcoreapp2.1\Concert.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\bin\Debug\netcoreapp2.1\Concert.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\obj\Debug\netcoreapp2.1\Concert.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\obj\Debug\netcoreapp2.1\Concert.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\obj\Debug\netcoreapp2.1\Concert.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\obj\Debug\netcoreapp2.1\Concert.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\obj\Debug\netcoreapp2.1\Concert.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\Tech Fund Final Exam - 16 December 2018\Concert\obj\Debug\netcoreapp2.1\Concert.pdb
