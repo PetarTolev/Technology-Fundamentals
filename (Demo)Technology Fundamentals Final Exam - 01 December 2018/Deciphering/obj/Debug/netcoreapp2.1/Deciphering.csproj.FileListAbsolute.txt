@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\bin\Debug\netcoreapp2.1\Deciphering.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Demo)Technology Fundamentals Final Exam - 01 December 2018\Deciphering\obj\Debug\netcoreapp2.1\Deciphering.pdb
