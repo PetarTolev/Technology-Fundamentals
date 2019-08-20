@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\bin\Debug\netcoreapp2.1\SoftUni Parking.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\bin\Debug\netcoreapp2.1\SoftUni Parking.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\bin\Debug\netcoreapp2.1\SoftUni Parking.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\bin\Debug\netcoreapp2.1\SoftUni Parking.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\bin\Debug\netcoreapp2.1\SoftUni Parking.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\obj\Debug\netcoreapp2.1\SoftUni Parking.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\obj\Debug\netcoreapp2.1\SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\obj\Debug\netcoreapp2.1\SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\obj\Debug\netcoreapp2.1\SoftUni Parking.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\obj\Debug\netcoreapp2.1\SoftUni Parking.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\SoftUni Parking\obj\Debug\netcoreapp2.1\SoftUni Parking.pdb

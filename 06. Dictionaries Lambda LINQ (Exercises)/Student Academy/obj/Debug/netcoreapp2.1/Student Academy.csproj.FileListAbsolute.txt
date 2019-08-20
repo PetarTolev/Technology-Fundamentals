@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.csprojAssemblyReference.cache

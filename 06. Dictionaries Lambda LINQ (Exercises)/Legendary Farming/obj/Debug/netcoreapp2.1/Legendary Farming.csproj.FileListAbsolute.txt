@@ -1,0 +1,22 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.pdb

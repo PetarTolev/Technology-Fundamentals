@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\bin\Debug\netcoreapp2.1\Courses.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\bin\Debug\netcoreapp2.1\Courses.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\bin\Debug\netcoreapp2.1\Courses.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\obj\Debug\netcoreapp2.1\Courses.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\obj\Debug\netcoreapp2.1\Courses.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\obj\Debug\netcoreapp2.1\Courses.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\Courses\obj\Debug\netcoreapp2.1\Courses.csprojAssemblyReference.cache

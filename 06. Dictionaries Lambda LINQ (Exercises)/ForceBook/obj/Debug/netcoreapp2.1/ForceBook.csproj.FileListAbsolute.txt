@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csprojAssemblyReference.cache

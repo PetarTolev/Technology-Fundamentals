@@ -1,0 +1,21 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises)Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\Technology Fundamentals\C#\(Exercises) Dictionaries Lambda LINQ\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.pdb
