@@ -1,0 +1,40 @@
+.green {
+    background: green;
+    margin-top: 20px;
+}
+.blue {
+    background: blue;
+}
+.red {
+    background: red;
+}
+.purple {
+    background: purple;
+}
+.orange {
+    background: orange;
+
+}
+div {
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    border: thick solid black;
+    margin-right: 20px;
+    font-family: 'Charmonman', cursive;
+    font-size: large;
+    font-weight: bolder;
+    text-shadow: 2px 2px #424242;
+    box-shadow: 4px 4px #a5a5a5;    
+}
+p {
+    text-align: center;
+    margin-top: 20px;  
+    font-size: 1cm;
+    font-weight: 900;
+    font-family: 'Raleway';
+    text-shadow: 2px 2px darkgrey;
+}
+h1 {
+    background: black;
+}
