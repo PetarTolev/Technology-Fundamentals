@@ -25,7 +25,5 @@
         [ForeignKey("Author")]
         public string AuthorId { get; set; }
         public ApplicationUser Author { get; set; }
-
-
     }
 }
